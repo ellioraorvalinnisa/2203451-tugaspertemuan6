@@ -41,17 +41,17 @@ public class Segitiga {
       return 3 * sisi;
   }
  
- /* menset nilai atribut segitiga */
+ /* menset nilai alas segitiga */
   void setAlas (double alasBaru){
       alas = alasBaru;
   }
 
- /* menset nilai alas segitiga */
+ /* menset nilai tinggi segitiga */
   void setTinggi (double tinggiBaru){
       tinggi = tinggiBaru;
   }
 
- /* menset nilai alas segitiga */
+ /* menset nilai sisi segitiga */
   void setSisi (double sisiBaru){
       sisi = sisiBaru;
   }
